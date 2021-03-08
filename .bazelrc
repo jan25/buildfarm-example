@@ -1,0 +1,2 @@
+# run --bes_backend=grpc://localhost:5000
+# run --remote_executor=grpc://localhost:8980
